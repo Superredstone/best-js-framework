@@ -8,6 +8,9 @@
 
 > Meme website
 
+## Dependencies 
+- [trunk](https://trunkrs.dev/)
+
 ## Usage
 
 ```sh
